@@ -8,9 +8,9 @@
 
 ## Relevant Links
 
-- $MUTA: 
+- $MUTA: YqemSkz87oeRfdoQ72bW2fcYtZGmTaVanMJMYNEpump
 - Website: https://mutaspring.com
-- Twitter: https://x.com/mutaspring
+- Twitter: https://x.com/mutarobotics
 
 ## Features
 
